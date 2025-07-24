@@ -1,0 +1,7 @@
+using this repo first of all you should make a .env file and add some variable exact like 
+MONGODB_URI=''
+DATABASE = ""
+JWT_SECRET =''
+PORT=
+
+after that run cmd 'npm install" 

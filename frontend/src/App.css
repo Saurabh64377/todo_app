@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+td div p {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: inline; 
+}
+
+/* .quilll p{
+    margin-bottom: 0 !important;
+}
+.quilll ol{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.quilll ol li{
+    margin: 0;
+} */
